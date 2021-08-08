@@ -26,3 +26,16 @@ h3{
   height:300px;
   float: right;
 }
+h5{
+  font-weight: bold;
+}
+h6{
+  font-style: italic;
+}
+.card h3{
+  text-decoration: underline;
+}
+.important{
+  text-decoration: underline;
+  background-color: red;
+}
