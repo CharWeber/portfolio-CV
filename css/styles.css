@@ -1,3 +1,13 @@
-.container{
-  float: right;
+body{
+  background-color: rgb(73, 73, 73);
+  color:white;
+  font-family:Arial, Helvetica, sans-serif
+}
+.card{
+  background-color: grey;
+  margin:5px;
+  padding:5px;
+}
+.row{
+  margin-left:10px;
 }
