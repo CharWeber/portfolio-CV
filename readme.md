@@ -39,5 +39,5 @@ _This is a portfolio website designed to showcase the work of Charles T Weber in
 
 Copyright (c) 2021 Charles Weber
 
-## Contact Informations
+## Contact Information
 _Charles Weber_ charlestweber@gmail.com
