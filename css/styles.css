@@ -21,3 +21,11 @@ h3{
   font-style: italic;
   font-weight: bold;
 }
+.cardimg{
+  border-radius: 300px;
+  border-style: solid;
+  border-color: black;
+  width:300px;
+  height:300px;
+  float: right;
+}
